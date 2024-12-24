@@ -76,7 +76,7 @@ platform==1.0.8
 
 
 ## Acknowledgements
-  This project was inspired by Upgrad and was completed inn collaboration with Saumya Singh, Email: its.saumyah@gmail.com.
+  This project was inspired by Upgrad and was completed by Saumya Singh, Email: its.saumyah@gmail.com, in collaboration with Venkadesh Kannan Email: venkadesh@gmail.com
 
 ## Contact
 Created by [@porshebeau]in collaboration with [@Venkadesh-kannan] . Feel free to contact us!
