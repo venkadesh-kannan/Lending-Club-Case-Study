@@ -43,12 +43,19 @@ It contains the complete loan data for all loans issued through the time period 
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Conclusions
+Loan amount, investor amount, funding amount are strongly correlated.
+Annual income with DTI(Debt-to-income ratio) is negatively correlated.
+Customers who are getting &#39;charged off&#39; have lower annual incomes than the ones who paid fully for every grade (i.e. at same interest range), hence Lending club should put threshold on the maximum loan amount to be disbursed to such applicants, if at all. And along with it. it is recommended that Lending Club shorten the repayment tenure as well.
+Grades are good metric for detecting defaulters. Lending Club should examine more information from borrowers before issuing loans to Low grade (G to A)
+Lending Club should control the number of loans issued to borrowers who are from CA, FL and NY to make profits
+Borrowers with mortgage home ownership are taking higher loans and defaulting on the approved loans. Lending club can put a threshold for such customers or add additional clauses before approving such loans
+Lending club should also reduce the tenure of repayment months to slash the percentage of ‘Charged Off’ applications.
+The lending club should make sure there are no public derogatory records for borrowers as these types of people have more chance of filing a bankruptcy.
+Since Loan taken for Small Business purpose, Debt consolidation and Credit cards, are somewhat evenly distributed as compared to loan taken for other purposes, lending club can focus on these segments.
+The lending club should stop giving loans to the above category when the loan amount requested is more than 12000 Changes to be done in Acknowledgements section
+  
+Changes to be done in Contact
 
 
 ## Technologies Used
@@ -61,8 +68,8 @@ platform==1.0.8
 
 
 ## Acknowledgements
-- This project was inspired by Upgrad and I thank Saumya Singh <its.saumyah@gmail.com> for her unwavering help and support.
+  This project was inspired by Upgrad and was completed inn collaboration with Saumya Singh, Email: its.saumyah@gmail.com.
 
 ## Contact
-Created by [@Venkadeah-kannan]- feel free to contact me!
+Created by [@porshebeau]in collaboration with [@Venkadesh-kannan] . Feel free to contact us!
 
